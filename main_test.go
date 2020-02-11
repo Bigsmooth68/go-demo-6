@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package main
 
 import (
@@ -198,3 +199,5 @@ func getResponseWriterMock() *ResponseWriterMock {
 	mockObj.On("WriteHeader", mock.Anything)
 	return mockObj
 }
+=======
+>>>>>>> 29099f3abd48397556ab13a0deb80fa99082e439
